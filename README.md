@@ -43,7 +43,7 @@ Laravel est un framework PHP robuste pour le développement backend.
 
 ### Ressources Recommandées :
 - [Documentation Laravel](https://laravel.com/docs)
-- [Créer une SPA avec Laravel et Nuxt](https://laravel.com/docs/8.x/frontend#single-page-applications)
+- [Créer une SPA avec Laravel et Nuxt](https://laravel.com)
 
 ---
 
@@ -55,7 +55,7 @@ Laravel est un framework PHP robuste pour le développement backend.
 
 ### Ressources Recommandées :
 - [NuxtJS et API Laravel - Tutoriel vidéo]
-- [Construire des applications web avec Nuxt et Laravel](https://laravel.com/docs/8.x/installation#installing-laravel)
+- [Construire des applications web avec Nuxt et Laravel](https://laravel.com/docs)
 
 ---
 
