@@ -12,7 +12,7 @@ Vue.js est un framework JavaScript progressif pour construire des interfaces uti
 ### Ressources Recommandées :
 - [Démarrage rapide - Vue.js](https://vuejs.org/guide/introduction.html)
 - [Tutoriel Vue.js - Grafikart](https://grafikart.fr/tutoriels/vue)
-- [Vue.js 3 - La formation complète pour débutants sur Udemy](https://www.udemy.com/course/vuejs-3-the-complete-guide/)
+
 
 ---
 
@@ -54,7 +54,7 @@ Laravel est un framework PHP robuste pour le développement backend.
 - **Déploiement** : Déployer Laravel sur un serveur (par exemple, Heroku) et Nuxt.js sur une plateforme adaptée (comme Vercel ou Netlify).
 
 ### Ressources Recommandées :
-- [NuxtJS et API Laravel - Tutoriel vidéo](https://www.youtube.com/results?search_query=nuxtjs+laravel+tutorial)
+- [NuxtJS et API Laravel - Tutoriel vidéo]
 - [Construire des applications web avec Nuxt et Laravel](https://laravel.com/docs/8.x/installation#installing-laravel)
 
 ---
@@ -73,4 +73,3 @@ Laravel est un framework PHP robuste pour le développement backend.
 
 ## Ressource Vidéo Recommandée
 Pour approfondir vos connaissances sur Vue.js, voici un tutoriel vidéo recommandé :
-- **[Vue.js 3 - La formation complète pour débutants sur Udemy](https://www.udemy.com/course/vuejs-3-the-complete-guide/)**
